@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Om👋
 
 💻 Full Stack Developer (Backend Focus)  
 🚀 Tech Stack: Node.js, Express, PostgreSQL, React, Tailwind CSS  
